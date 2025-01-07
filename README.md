@@ -1,3 +1,3 @@
-# DSA
-#Linked list implementation
+# Data structures and Algorithms
+
 
